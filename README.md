@@ -23,7 +23,7 @@
 
 Varius senectus semper suspendisse dictumst netus fames habitasse rhoncus vel, eleifend feugiat arcu bibendum et facilisis quis viverra, class per morbi sollicitudin sed pellentesque hac nullam.
 
-[![npm version](https://img.shields.io/npm/v/bootstrap)](https://www.npmjs.com/package/bootstrap)
+[![python](https://img.shields.io/npm/v/bootstrap)](https://www.npmjs.com/package/bootstrap)
 
 ## Table of contents
 
