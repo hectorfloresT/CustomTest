@@ -84,23 +84,20 @@ See <https://***.com> class per morbi sollicitudin sed pellentesque hac nullam.
 
 ## Thanks
 
-<a href="https://www.browserstack.com/">
-  <img src="https://live.browserstack.com/images/opensource/browserstack-logo.svg" alt="BrowserStack Logo" width="192" height="42">
-</a>
+Dictum aptent enim lectus potenti interdum placerat vulputate, laoreet porta congue augue eleifend sociosqu.
 
-Thanks to [BrowserStack](https://www.browserstack.com/) for providing the infrastructure that allows us to test in real browsers!
+Thanks to [Dictum aptent](https://***.com/) Dictum aptent enim lectus potenti interdum placerat vulputate.
 
 
 ## Sponsors
 
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/bootstrap#sponsor)]
+Dictum aptent enim lectus potenti interdum placerat vulputate, laoreet porta congue augue eleifend sociosqu.
 
 <a href="https://www.browserstack.com/">
-  <img src="https://live.browserstack.com/images/opensource/browserstack-logo.svg" alt="BrowserStack Logo" width="192" height="42">
+  <img src="https://deepsecurity.pe/wp-content/uploads/2020/02/logo_deepsecurity_blanco.png" alt="DeepSecurity Logo" width="192" height="42">
 </a>
-[![OC sponsor 0](Imagesvg)](https://https://deepsecurity.pe/)
 
 
 ## Copyright and license
 
-Code and documentation copyright 2011–2020 the [Bootstrap Authors](https://github.com/twbs/bootstrap/graphs/contributors) and [Twitter, Inc.](https://twitter.com) Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/main/LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
+Dictum aptent enim lectus potenti interdum placerat vulputate, laoreet porta congue augue eleifend sociosqu. Eget himenaeos quam ultrices posuere lectus in dui turpis, malesuada fusce interdum ante dis varius sapien, venenatis neque natoque potenti montes feugiat est.
