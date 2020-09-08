@@ -32,6 +32,7 @@ Varius senectus semper suspendisse dictumst netus fames habitasse rhoncus vel, e
 - [Creators](#creators)
 - [Contributing](#contributing)
 - [Thanks](#thanks)
+- [Sponsors](#sponsors)
 - [Copyright and license](#copyright-and-license)
 
 
@@ -55,13 +56,6 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt sollicitudin el
 You can find all our previous releases docs on <https://***.com/>.
 
 
-## Contributing
-
-El Lorem Ipsum fue concebido como un texto de relleno, formateado de una cierta manera para permitir la presentación de elementos gráficos en documentos, sin necesidad de una copia formal. El uso de Lorem Ipsum permite a los diseñadores reunir los diseños y la forma del contenido antes de que el contenido se haya creado, dando al diseño y al proceso de producción más libertad.
-
-Eget himenaeos quam ultrices posuere lectus in dui turpis, malesuada fusce interdum ante dis varius sapien, venenatis neque natoque potenti montes feugiat est.
-
-
 ## Versioning
 
 Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt sollicitudin elementum potenti eros, integer cubilia nulla sed id augue habitant et mi sodales non. Varius senectus semper suspendisse dictumst netus fames habitasse rhoncus vel, eleifend feugiat arcu bibendum et facilisis quis viverra, class per morbi sollicitudin sed pellentesque hac nullam.
@@ -80,6 +74,13 @@ See <https://***.com> class per morbi sollicitudin sed pellentesque hac nullam.
 
 - <https://twitter.com/name2>
 - <https://github.com/name2>
+
+
+## Contributing
+
+El Lorem Ipsum fue concebido como un texto de relleno, formateado de una cierta manera para permitir la presentación de elementos gráficos en documentos, sin necesidad de una copia formal. El uso de Lorem Ipsum permite a los diseñadores reunir los diseños y la forma del contenido antes de que el contenido se haya creado, dando al diseño y al proceso de producción más libertad.
+
+Eget himenaeos quam ultrices posuere lectus in dui turpis, malesuada fusce interdum ante dis varius sapien, venenatis neque natoque potenti montes feugiat est.
 
 
 ## Thanks
