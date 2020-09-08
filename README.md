@@ -47,61 +47,40 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt:
 
 Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt sollicitudin elementum potenti eros, integer cubilia nulla sed id augue habitant et mi sodales non. Varius senectus semper suspendisse dictumst netus fames habitasse rhoncus vel, eleifend feugiat arcu bibendum et facilisis quis viverra, class per morbi sollicitudin sed pellentesque hac nullam.
 
-### Running documentation locally
-
-1. Run `npm install` to install the Node.js dependencies, including Hugo (the site builder).
-2. Run `npm run test` (or a specific npm script) to rebuild distributed CSS and JavaScript files, as well as our docs assets.
-3. From the root `/bootstrap` directory, run `npm run docs-serve` in the command line.
-4. Open `http://localhost:9001/` in your browser, and voilà.
-
-Learn more about using Hugo by reading its [documentation](https://gohugo.io/documentation/).
 
 ### Documentation for previous releases
 
-You can find all our previous releases docs on <https://v5.getbootstrap.com/docs/versions/>.
 
-[Previous releases](https://github.com/twbs/bootstrap/releases) and their documentation are also available for download.
+[Previous releases](https://***.com) and their documentation are also available for download.
+
+You can find all our previous releases docs on <https://***.com/>.
 
 
 ## Contributing
 
-Please read through our [contributing guidelines](https://github.com/twbs/bootstrap/blob/main/.github/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
+El Lorem Ipsum fue concebido como un texto de relleno, formateado de una cierta manera para permitir la presentación de elementos gráficos en documentos, sin necesidad de una copia formal. El uso de Lorem Ipsum permite a los diseñadores reunir los diseños y la forma del contenido antes de que el contenido se haya creado, dando al diseño y al proceso de producción más libertad.
 
-Moreover, if your pull request contains JavaScript patches or features, you must include [relevant unit tests](https://github.com/twbs/bootstrap/tree/main/js/tests). All HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Mark Otto](https://github.com/mdo).
-
-Editor preferences are available in the [editor config](https://github.com/twbs/bootstrap/blob/main/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
-
-
-## Community
-
-Get updates on Bootstrap's development and chat with the project maintainers and community members.
-
-- Follow [@getbootstrap on Twitter](https://twitter.com/getbootstrap).
-- Read and subscribe to [The Official Bootstrap Blog](https://blog.getbootstrap.com/).
-- Join [the official Slack room](https://bootstrap-slack.herokuapp.com/).
-- Chat with fellow Bootstrappers in IRC. On the `irc.freenode.net` server, in the `##bootstrap` channel.
-- Implementation help may be found at Stack Overflow (tagged [`bootstrap-5`](https://stackoverflow.com/questions/tagged/bootstrap-5)).
-- Developers should use the keyword `bootstrap` on packages which modify or add to the functionality of Bootstrap when distributing through [npm](https://www.npmjs.com/browse/keyword/bootstrap) or similar delivery mechanisms for maximum discoverability.
+Eget himenaeos quam ultrices posuere lectus in dui turpis, malesuada fusce interdum ante dis varius sapien, venenatis neque natoque potenti montes feugiat est.
 
 
 ## Versioning
 
-For transparency into our release cycle and in striving to maintain backward compatibility, Bootstrap is maintained under [the Semantic Versioning guidelines](https://semver.org/). Sometimes we screw up, but we adhere to those rules whenever possible.
+Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt sollicitudin elementum potenti eros, integer cubilia nulla sed id augue habitant et mi sodales non. Varius senectus semper suspendisse dictumst netus fames habitasse rhoncus vel, eleifend feugiat arcu bibendum et facilisis quis viverra, class per morbi sollicitudin sed pellentesque hac nullam.
 
-See [the Releases section of our GitHub project](https://github.com/twbs/bootstrap/releases) for changelogs for each release version of Bootstrap. Release announcement posts on [the official Bootstrap blog](https://blog.getbootstrap.com/) contain summaries of the most noteworthy changes made in each release.
+See (https://***.com) class per morbi sollicitudin sed pellentesque hac nullam.
 
 
 ## Creators
 
-**Mark Otto**
+***Name 1***
 
-- <https://twitter.com/mdo>
-- <https://github.com/mdo>
+- <https://twitter.com/name1>
+- <https://github.com/name1>
 
-**Jacob Thornton**
+***Name 2***
 
-- <https://twitter.com/fat>
-- <https://github.com/fat>
+- <https://twitter.com/name2>
+- <https://github.com/name2>
 
 
 ## Thanks
