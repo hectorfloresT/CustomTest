@@ -9,16 +9,11 @@
 <p align="center">
   Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt sollicitudin elementum potenti eros, integer cubilia nulla sed id augue habitant et mi sodales non.
   <br>
-  <a href="https://v5.getbootstrap.com/docs/5.0/"><strong>Explore Bootstrap docs »</strong></a>
-  <br>
-  <br>
-  <a href="https://github.com/twbs/bootstrap/issues/new?template=bug_report.md">Report bug</a>
+  <a href="#">Facebook</a>
   ·
-  <a href="https://github.com/twbs/bootstrap/issues/new?template=feature_request.md">Request feature</a>
+  <a href="#_request.md">Twitter</a>
   ·
-  <a href="https://themes.getbootstrap.com/">Themes</a>
-  ·
-  <a href="https://blog.getbootstrap.com/">Blog</a>
+  <a href="#">Deepsecurity.com</a>
 </p>
 
 
