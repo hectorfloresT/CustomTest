@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="/assets/images/ASIT__Banner.jpg" alt="Bootstrap logo" width="200" height="165">
+    <img src="/assets/images/ASIT__Banner.jpg" alt="Bootstrap logo" width="400" height="150">
   </a>
 </p>
 
