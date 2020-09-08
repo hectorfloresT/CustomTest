@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="/assets/images/ASIT__Banner.jpg" alt="Bootstrap logo" width="400" height="150">
+    <img src="/assets/images/ASIT__Banner.jpg" alt="Tool kit" width="400" height="150">
   </a>
 </p>
 
@@ -41,7 +41,7 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt:
 
 - [Download the latest release](https:***.com)
 - Clone the repo: `git clone https://***/tool.git`
-- Install with [python](https://www.***.com/): `npm install bootstrap@next`
+- Install with [python](https://www.***.com/): `apt-get install toolkit`
 
 ## Documentation
 
@@ -49,7 +49,6 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt sollicitudin el
 
 
 ### Documentation for previous releases
-
 
 [Previous releases](https://***.com) and their documentation are also available for download.
 
@@ -72,12 +71,12 @@ See (https://***.com) class per morbi sollicitudin sed pellentesque hac nullam.
 
 ## Creators
 
-***Name 1***
+**Name 1**
 
 - <https://twitter.com/name1>
 - <https://github.com/name1>
 
-***Name 2***
+**Name 2**
 
 - <https://twitter.com/name2>
 - <https://github.com/name2>
