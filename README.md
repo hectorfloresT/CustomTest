@@ -95,7 +95,8 @@ Thanks to [BrowserStack](https://www.browserstack.com/) for providing the infras
 
 Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/bootstrap#sponsor)]
 
-[![OC sponsor 0](https://deepsecurity.pe/wp-content/uploads/2020/02/logo_deepsecurity_blanco.png)
+[![OC sponsor 0](https://opencollective.com/bootstrap/sponsor/0/avatar.svg)](https://opencollective.com/bootstrap/sponsor/0/website)
+[![OC sponsor 0](https://deepsecurity.pe/wp-content/uploads/2020/02/logo_deepsecurity_blanco.png)](https://https://deepsecurity.pe/)
 
 
 ## Copyright and license
