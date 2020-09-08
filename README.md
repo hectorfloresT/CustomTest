@@ -95,7 +95,7 @@ Thanks to [Dictum aptent](https://***.com/) Dictum aptent enim lectus potenti in
 Dictum aptent enim lectus potenti interdum placerat vulputate, laoreet porta congue augue eleifend sociosqu.
 
 <a href="https://www.browserstack.com/">
-  <img src="https://deepsecurity.pe/wp-content/uploads/2020/02/logo_deepsecurity_blanco.png" alt="DeepSecurity Logo" width="192" height="42">
+  <img src="/assets/images/logo_deepsecurity.png" alt="DeepSecurity Logo" width="192" height="42">
 </a>
 
 
