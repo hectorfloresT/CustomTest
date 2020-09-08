@@ -23,7 +23,7 @@
 
 Varius senectus semper suspendisse dictumst netus fames habitasse rhoncus vel, eleifend feugiat arcu bibendum et facilisis quis viverra, class per morbi sollicitudin sed pellentesque hac nullam.
 
-[![Python 3.x](https://img.shields.io/badge/python-3.x-yellow.svg)](https://www.python.org/) 
+[![Python 3.x](https://img.shields.io/badge/Python-3.x-yellow.svg)](https://www.python.org/) 
 
 ## Table of contents
 
