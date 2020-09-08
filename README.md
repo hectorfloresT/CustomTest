@@ -4,10 +4,10 @@
   </a>
 </p>
 
-<h3 align="center">Bootstrap</h3>
+<h3 align="center">Deep Security</h3>
 
 <p align="center">
-  Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+  Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt sollicitudin elementum potenti eros, integer cubilia nulla sed id augue habitant et mi sodales non.
   <br>
   <a href="https://v5.getbootstrap.com/docs/5.0/"><strong>Explore Bootstrap docs »</strong></a>
   <br>
