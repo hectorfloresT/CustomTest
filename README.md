@@ -39,7 +39,7 @@ Varius senectus semper suspendisse dictumst netus fames habitasse rhoncus vel, e
 
 Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt:
 
-- [Download the latest release](https:***.com)
+- (https:***.com)
 - Clone the repo: `git clone https://***/tool.git`
 - Install with [python](https://www.***.com/): `apt-get install toolkit`
 
