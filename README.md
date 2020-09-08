@@ -66,7 +66,7 @@ Eget himenaeos quam ultrices posuere lectus in dui turpis, malesuada fusce inter
 
 Lorem ipsum dolor sit amet consectetur adipiscing elit tincidunt sollicitudin elementum potenti eros, integer cubilia nulla sed id augue habitant et mi sodales non. Varius senectus semper suspendisse dictumst netus fames habitasse rhoncus vel, eleifend feugiat arcu bibendum et facilisis quis viverra, class per morbi sollicitudin sed pellentesque hac nullam.
 
-See (https://***.com) class per morbi sollicitudin sed pellentesque hac nullam.
+See <https://***.com> class per morbi sollicitudin sed pellentesque hac nullam.
 
 
 ## Creators
